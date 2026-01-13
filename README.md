@@ -46,7 +46,10 @@ This reflects **what the user actually sees on the display**.
 
 - Android 11+ device
 - adb
-- Perfetto (`trace_processor_shell`)
+- Perfetto
+    1. Download **`trace_processor_shell.exe`** from the official Perfetto releases:  
+       https://github.com/google/perfetto/releases
+    2. Copy **`trace_processor_shell.exe`** into the same directory as **`fps_loop.bat`**.
 - Windows (batch script provided, Linux users can adapt) 
 
 ---
